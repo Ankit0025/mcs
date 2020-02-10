@@ -1,0 +1,182 @@
+body{
+	overflow-x: hidden;
+	font-family: 'Lato',sans-serif;
+	background-color: khaki;
+}
+
+
+/* Nav / Navbar Styles
+===================================*/
+.navbar{
+	background: #FF9900;
+	border-bottom: none;
+	padding: 30px 0;
+    transition-duration: 0.6s;
+	margin: left;
+	letter-spacing: .1rem;
+	text-transform: uppercase;
+	font-weight: 400;
+  
+}
+
+.navbar-brand img{
+	height: .2rem;
+	}
+
+.navbar-nav li{
+	padding-right: .2rem;
+ }
+  
+ .navbar-nav .nav-link{
+	 color: white;
+ }
+
+ .navbar-nav .nav-link.active,
+ .navbar-nav .nav-link:hover{
+	 color: #1ebba3;
+
+ }
+ .btn{
+	text-shadow: .01rem .01rem .01rem white;
+	padding-right: 20px;
+	 padding-left: 20px;
+	 text-align: center; 
+	 background-color: #FF9900;
+	 border-color: #FF9900; 
+ 	font-weight: bold;
+	font-color: #FF9900;
+ }
+ 
+
+
+ 
+  
+
+
+ .bg-img {
+	/* The image used */
+	background-image: url("images/img10.jpeg");
+  
+	min-height: 380px;
+  
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	background-attachment: fixed;
+
+  }
+  
+  .form-group{
+	  width: 315px;
+ 	  position: bottom;
+	  margin-left: 10px;
+	  background-color: transparent;
+   }
+
+  .container{
+ 	opacity: 75%;
+	padding-top: 150px;
+	border: #FF9900;
+	height: 100px;
+	;
+
+
+  }
+
+  .form-control{
+	   
+  }
+
+   
+  }
+  .btn{
+	  margin-left: 580px;
+	  margin-top: 100px;
+      
+	}
+
+	 
+ .bg-img1{
+background-color: #565656;
+ height: 180px;
+padding-top: 15px;
+padding-left: 18px; 
+padding-bottom: 10px;
+background-attachment: fixed;
+
+}
+
+.imgsetting{
+	color: #FF9900;
+
+}
+
+.imgsetting1{
+	color:  #FF9900;
+	padding-top: 10px;
+
+}
+
+
+
+
+.services h1{
+	padding-top: 20px;
+ color: #FF9900 ;
+text-align: center;
+padding-bottom: 15px;
+margin: 0 auto;
+}
+.heading-underline{
+	width: 3rem;
+	height: .2rem;
+	color: #FF9900;
+	margin: 0 auto;
+}
+
+.card{
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	height: 90%;
+	width: 90%;
+	margin-top: 80px;
+
+	
+}
+
+.bg-img2 {
+	/* The image used */
+	background-image: url("images/img2.jpeg"),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));;
+  
+	min-height: 300px;
+  
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	background-attachment: fixed;
+	 
+     background-blend-mode: overlay;
+ 
+  }
+
+  .tech h1{
+	padding-top: 40px;
+	color: #FF9900 ;
+	text-align: center;
+	padding-bottom: 30px;
+	margin: 0 auto;
+	z-index: 10;
+	}
+
+ 
+
+ 
+
+
+
+ 
